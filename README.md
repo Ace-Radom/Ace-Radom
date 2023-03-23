@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there, Ace-Radom here
+
+- Grade 10 student comes from Shanghai, China
+- Studying in Germany now
+- Wanna learn how to develop games!
+
+**I use:**
+
+- C, C++ (most often)
+- C# (especially for GUIs)
+- Python (less often, only for small modules)
+- HTML, CSS, JavaScript (Stack_Overflow-Oriented Programming)
+- Powershell
+- Make, CMake
 
 <!--
 **Ace-Radom/Ace-Radom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
