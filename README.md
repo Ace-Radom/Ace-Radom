@@ -1,4 +1,6 @@
-### Hi there, Ace-Radom here
+### Hi there~ Ace-Radom here
+
+<img src="https://img.shields.io/badge/OS-Windows%2011-blue" /> <img src="https://img.shields.io/badge/Compiler-MinGW-blue" /> <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue" />
 
 - Grade 10 student comes from Shanghai, China
 - Studying in Germany now
@@ -6,26 +8,12 @@
 
 **I use:**
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ace-Radom&layout=compact&hide_border=false&langs_count=10" />
+
 - C, C++ (most often)
 - C# (especially for GUIs)
 - Python (less often, only for small modules)
 - HTML, CSS, JavaScript (Stack_Overflow-Oriented Programming)
 - Powershell
 - Make, CMake
-
-![Ace-Radom's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ace-Radom&show_icons=true&count_private=true&theme=gotham)
-
-<!--
-**Ace-Radom/Ace-Radom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LaTeX
