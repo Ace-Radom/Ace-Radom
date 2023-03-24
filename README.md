@@ -17,3 +17,10 @@
 - Powershell
 - Make, CMake
 - LaTeX
+
+**I speak:**
+
+- Chinese (native language)
+- English
+- German
+- Japanese (only a little)
