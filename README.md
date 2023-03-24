@@ -4,8 +4,6 @@
 - Studying in Germany now
 - Wanna learn how to develop games!
 
-<img align="right" src="https://api.githubtrends.io/user/svg/Ace-Radom/langs?time_range=one_year&theme=classic" />
-
 **I use:**
 
 - C, C++ (most often)
