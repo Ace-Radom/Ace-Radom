@@ -4,7 +4,7 @@
 - Studying in Germany now
 - Wanna learn how to develop games!
 
-<img align="right" src="https://api.githubtrends.io/user/svg/Ace-Radom/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic" />
+<img align="right" src="https://api.githubtrends.io/user/svg/Ace-Radom/langs?time_range=one_year&theme=classic" />
 
 **I use:**
 
