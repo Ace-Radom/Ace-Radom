@@ -8,7 +8,7 @@
 
 **I use:**
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ace-Radom&layout=compact&hide_border=false&langs_count=10" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ace-Radom&layout=compact&hide_border=false&langs_count=10&PAT_1" />
 
 - C, C++ (most often)
 - C# (especially for GUIs)
