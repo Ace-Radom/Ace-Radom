@@ -18,6 +18,8 @@
 - Make, CMake
 - LaTeX
 
+<img src="https://img.shields.io/badge/C%2C%20C%2B%2B-MinGW%208.1.0-yellowgreen" /> <img src="https://img.shields.io/badge/C%23-VS2022-red" /> <img src="https://img.shields.io/badge/Python-cPython%203.10.8-blue" /> <img src="https://img.shields.io/badge/LaTeX-TeX%20Live%202022-lightgrey" />
+
 **I speak:**
 
 - Chinese (native language)
