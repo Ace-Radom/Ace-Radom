@@ -6,6 +6,8 @@
 - Studying in Germany now
 - Wanna learn how to develop games!
 
+I actually ~just~ started trying to write some code for someone else's repo...
+
 **I use:**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ace-Radom&layout=compact&hide_border=false&langs_count=10&PAT_1" />
