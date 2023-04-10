@@ -31,3 +31,9 @@ I actually ~just~ started trying to write some code for someone else's repo...
 - English
 - German
 - Japanese (only a little)
+
+**Prepare to learn:**
+
+- Perl
+- Rust
+- Java
