@@ -1,6 +1,8 @@
 ### Hi there~ Ace-Radom here
 
-<img src="https://img.shields.io/badge/OS-Windows%2011-blue" /> <img src="https://img.shields.io/badge/Compiler-MinGW-blue" /> <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue" />
+<img src="https://img.shields.io/badge/OS-Windows%2011-blue" /> <img src="https://img.shields.io/badge/WSL-Debian%2011.6-blue" />
+
+<img src="https://img.shields.io/badge/Compiler-MinGW-blue" /> <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue" />
 
 - Grade 10 student comes from Shanghai, China
 - aka Hisakiの夜空
