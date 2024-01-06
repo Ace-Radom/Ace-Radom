@@ -5,7 +5,7 @@
 - Grade 11 student comes from Shanghai, China
 - aka Hisakiの夜空
 - Studying in Germany now
-- Languages I speek:\
+- Languages I speek:
   - Chinese (native language)
   - English
   - German (used most commonly nowadays)
