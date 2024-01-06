@@ -5,6 +5,13 @@
 - Grade 11 student comes from Shanghai, China
 - aka Hisakiの夜空
 - Studying in Germany now
+- Languages I speek:\
+  - Chinese (native language)
+  - English
+  - German (used most commonly nowadays)
+  - Shanghainese (second native language, can totally understand and speak fluently in most of the time)
+  - French (still lerning)
+  - Japanese (still lerning)
 - Wanna learn how to develop games!
 
 ACGN爱好者 一定范围内的C/C++遗老 ~~虽然技术力也没高就是了~~
