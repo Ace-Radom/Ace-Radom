@@ -14,6 +14,9 @@
   - Japanese (still learning)
 - Wanna learn how to develop games!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ace-Radom)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ACGN爱好者 一定范围内的C/C++遗老 ~~虽然技术力也没高就是了~~
 
 为什么是C/C++呢？因为嫌C++设计太复杂但纯C太烦（不是写不来 是懒得造轮子
