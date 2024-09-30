@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/OS-Windows%2011-blue" /> <img src="https://img.shields.io/badge/WSL-Debian%2011.6-blue" /> <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue" />
 
-- Grade 11 student comes from Shanghai, China
+- Grade 12 student comes from Shanghai, China
 - aka Hisakiの夜空
 - Studying in Germany now
 - Languages I speek:
