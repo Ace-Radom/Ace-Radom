@@ -33,5 +33,3 @@ ACGN爱好者 一定范围内的C/C++遗老 ~~虽然技术力也没高就是了~
 - [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit): 长期关注+简单功能开发
 
 如果有人愿意来discussion里聊聊天就好了（不过真的会有人到这里么QwQ
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ace-radom" />
